@@ -85,7 +85,7 @@ nav{
 .options .fa-regular{
     padding-top: 5px;
     font-size: 20px;
-    padding-left: 20px;
+    padding-left: 12px;
     color: black;
 }
 
@@ -124,7 +124,7 @@ nav{
 .container .w1 p {
         border: 2px solid #51504e;
         position: absolute;
-        top: 239px;
+        top: 235px;
         left: 101px;
         background-color: #181818;
         height: 29px;
@@ -139,7 +139,7 @@ nav{
     .container .w2 p {
         border: 2px solid #51504e;
         position: absolute;
-        top: 239px;
+        top: 235px;
         left: 806px;
         background-color: #181818;
         height: 29px;
